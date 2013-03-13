@@ -1,4 +1,7 @@
-helloworld
-==========
+# Hello World
 
-first repo!
+THis is my first repository
+
+## Comp1950
+
+This is part of my COMP 1950 class
